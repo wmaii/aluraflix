@@ -1,6 +1,10 @@
 body{
     color:black;
     background:white;
+    font-family: "Berkshire Swash", serif;
+  font-weight: 400;
+  font-style: normal;
+    
 }
 header {
     border-bottom: solid 2px rgb(151, 1, 205);
@@ -21,6 +25,9 @@ section {
 
 h1{
     font-size: 40px;
+    font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
 p{
